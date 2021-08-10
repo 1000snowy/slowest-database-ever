@@ -4,5 +4,8 @@
   "description": "A next gen database with super fast read & write speeds.",
   "main": "index.js",
   "author": "Snowy#6877",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1000snowy/slowest-database-ever/issues"
+  }
 }
