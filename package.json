@@ -1,0 +1,8 @@
+{
+  "name": "slowest-database-ever",
+  "version": "alpha-1.0.0",
+  "description": "A next gen database with super fast read & write speeds.",
+  "main": "index.js",
+  "author": "Snowy#6877",
+  "license": "ISC"
+}
